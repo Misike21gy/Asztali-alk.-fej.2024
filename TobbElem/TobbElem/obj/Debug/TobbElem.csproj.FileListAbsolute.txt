@@ -1,0 +1,7 @@
+C:\Users\2021129\source\repos\Asztali-alk.-fej.2024\TobbElem\TobbElem\obj\Debug\TobbElem.csproj.AssemblyReference.cache
+C:\Users\2021129\source\repos\Asztali-alk.-fej.2024\TobbElem\TobbElem\obj\Debug\TobbElem.csproj.CoreCompileInputs.cache
+C:\Users\2021129\source\repos\Asztali-alk.-fej.2024\TobbElem\TobbElem\bin\Debug\TobbElem.exe.config
+C:\Users\2021129\source\repos\Asztali-alk.-fej.2024\TobbElem\TobbElem\bin\Debug\TobbElem.exe
+C:\Users\2021129\source\repos\Asztali-alk.-fej.2024\TobbElem\TobbElem\bin\Debug\TobbElem.pdb
+C:\Users\2021129\source\repos\Asztali-alk.-fej.2024\TobbElem\TobbElem\obj\Debug\TobbElem.exe
+C:\Users\2021129\source\repos\Asztali-alk.-fej.2024\TobbElem\TobbElem\obj\Debug\TobbElem.pdb
