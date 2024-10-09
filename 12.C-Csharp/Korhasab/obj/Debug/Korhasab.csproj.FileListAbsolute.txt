@@ -1,0 +1,2 @@
+H:\C#\program4\Korhasab\obj\Debug\Korhasab.csproj.AssemblyReference.cache
+H:\C#\program4\Korhasab\obj\Debug\Korhasab.csproj.CoreCompileInputs.cache
