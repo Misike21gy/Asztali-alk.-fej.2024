@@ -1,0 +1,7 @@
+C:\Users\2021129\Source\Repos\Misike21gy\Asztali-alk.-fej.2024\12.C-Csharp\teszt\bin\Debug\teszt.exe.config
+C:\Users\2021129\Source\Repos\Misike21gy\Asztali-alk.-fej.2024\12.C-Csharp\teszt\bin\Debug\teszt.exe
+C:\Users\2021129\Source\Repos\Misike21gy\Asztali-alk.-fej.2024\12.C-Csharp\teszt\bin\Debug\teszt.pdb
+C:\Users\2021129\Source\Repos\Misike21gy\Asztali-alk.-fej.2024\12.C-Csharp\teszt\obj\Debug\teszt.csproj.AssemblyReference.cache
+C:\Users\2021129\Source\Repos\Misike21gy\Asztali-alk.-fej.2024\12.C-Csharp\teszt\obj\Debug\teszt.csproj.CoreCompileInputs.cache
+C:\Users\2021129\Source\Repos\Misike21gy\Asztali-alk.-fej.2024\12.C-Csharp\teszt\obj\Debug\teszt.exe
+C:\Users\2021129\Source\Repos\Misike21gy\Asztali-alk.-fej.2024\12.C-Csharp\teszt\obj\Debug\teszt.pdb
